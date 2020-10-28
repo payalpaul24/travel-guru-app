@@ -1,3 +1,47 @@
+# 🚀 Travel Guru App
+[Live Site](https://travel-guru-2574c.web.app/).
+
+### This site is working who are interested in travelling and like to booking hotel for stay.
+### Where a traveller can choose any tourist place for travelling and they should provide start date & ending date for booking hotel.
+### Where user should be login if they want to booking hotel.
+### When You registered  a hotel  then it will suggestion place based on your selected place.
+### Lastly, google map will assist you to make your travel experience smoother.
+
+<h1 align='center'>
+  Technology Uses
+</h1>
+<a href="https://stackoverflow.com/users/14504176/payal-paul">
+   React, React Bootstrap, React Router, Firebase Hosting & Authentication, Google Map       
+</a>&nbsp;&nbsp;
+
+### Connect with me:
+
+<p align='left'>
+<a href="https://www.linkedin.com/in/payal-paul-44a8b81ba/">
+    <img src="https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=linkedin&logoColor=ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1j9uAy5d23W4NerGGgxkkHKPrVzgtM-Bp/view">
+    <img src="https://img.shields.io/badge/%20-Resume-black?color=14171A&labelColor=1976d2&logo=resume&logoColor=ffffff" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@payalpaul2436">
+    <img src="https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/14504176/payal-paul">
+    <img src="https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26" />        
+  </a>&nbsp;&nbsp;
+ </p>
+
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
